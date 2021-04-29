@@ -1,0 +1,19 @@
+*{margin:0; padding:o;}
+
+body{
+  background:rgb(146, 169, 236);
+}
+.tablat{
+  font-family: 'Quicksand', sans-serif;
+  margin: 0 auto;
+  border-spacing: 25px;
+  background:#357c60;
+  font-size: 20px;
+  height: 500px;
+  width: 500px;
+}
+
+.img1 {
+  height:500px;
+  width: 500px;
+}
